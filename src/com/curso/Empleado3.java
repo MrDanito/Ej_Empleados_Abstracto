@@ -23,6 +23,7 @@ public class Empleado3 extends Empleados {
 
     }
 
+    @Override
     public void vacaciones(){
 
         System.out.println("No tiene vacaciones.");
